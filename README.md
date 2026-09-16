@@ -21,4 +21,4 @@ Ik wil het gridprincipe meenemen. Ik wil mijn elementen beter uitlijnen, zodat m
 
 ### 31 aug - Kickoff
 
-Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
+Vandaag behandelden we het maken van een fork van de model repository en hoe je deze publiceert via je eigen GitHub omgeving. Een source hosting platform is een website waar je jouw programmeercode kunt opslaan, beheren en delen met anderen. Het is een handige plek om aan projecten te werken en bij te houden welke wijzigingen er gemaakt worden. Ik heb als mijn platform de keuze van GitHub gemaakt omdat we hier vorig jaar ook mee aan de slag zijn geweest en dit dus vertrouwder voelt om mee te werken.
