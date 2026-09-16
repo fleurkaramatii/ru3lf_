@@ -15,7 +15,27 @@ Een grid zorgt voor structuur en eenheid in een ontwerp, omdat het helpt om elem
 
 Ik wil het gridprincipe meenemen. Ik wil mijn elementen beter uitlijnen, zodat mijn Garden meer structuur en eenheid krijgt. Tegelijkertijd wil ik sommige elementen bewust groter of anders plaatsen om het ontwerp interessant te houden.
 
-### 3 sept - [Workshop]
+### 14 sept - [Workshop]
+
+[...]
+
+### 11 sept - [Workshop]
+
+[...]
+
+### 9 sept - [Workshop]
+
+[...]
+
+### 7 sept - [Workshop]
+
+[...]
+
+### 4 sept - [Workshop]
+
+[...]
+
+### 2 sept - [Workshop]
 
 [...]
 
