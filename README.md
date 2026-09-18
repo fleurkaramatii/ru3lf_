@@ -37,7 +37,7 @@ Ik wil het gridprincipe meenemen. Ik wil mijn elementen beter uitlijnen, zodat m
 
 ### 2 sept - [Workshop]
 
-[...]
+Vandaag heb ik tijdens mijn eerste workshop "Interactie: MMD, micro-interacties, forms" gehad. Tijdens deze les hebben we een opfrisser gehad voor de MMD elementen. Deze hebben we vervolgens toegpast
 
 ### 31 aug - Kickoff
 
