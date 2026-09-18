@@ -25,11 +25,17 @@ Ik wil het gridprincipe meenemen. Ik wil mijn elementen beter uitlijnen, zodat m
 
 ### 9 sept - [Workshop]
 
-[...]
+1. Het onderzoeken van verschillende websites, beelden, kleuren en lettertypes.
+2. Het kijken naar de verzamelde inspiratie en vervolgens bepalen welke elementen je het liefste wilt gebruiken op een abstracte manier.
+3. Het gebruiken van de opgedane inspiratie in je eigen website.
+Mijn garden zal gaan over mij en mijn weg die ik gewandeld heb naar mijn carriere als professionele danser. Ik zal daarom om de stijl die ik in mijn miro heb neergezet hierbij aanhouden.<img width="1081" height="515" alt="image" src="https://github.com/user-attachments/assets/51cd2d09-2069-48bb-85f0-e08d218b9133" />
+
 
 ### 7 sept - [Workshop]
 
-[...]
+Een digital garden is een persoonlijke website waar je ideeën, interesses, experimenten en dingen die je leert kunt verzamelen. Het is meer een soort digitale tuin die steeds groeit en verandert, dan een website die helemaal af moet zijn. Dit is anders dan een reguliere website, omdat een normale website vaak een duidelijke structuur heeft en vooral bedoeld is om informatie netjes aan bezoekers te presenteren. Bij een digital garden mag het juist een stuk chaotischer en persoonlijker zijn. 
+Een website wordt webby op het moment dat het iets persoonlijks is en er veel creativiteit in voorkomt. De site hoeft bijvoorbeeld niet perfect of af te zijn omdat het zichzelf steeds verder kan ontwikkelen. Juist door het gebruik maken van interactieve animaties, heftige kleuren en bijzondere lettertypes wordt een website in mijn ogen meer webby. Websites die mij inspireren zijn bijvoorbeeld:
+Bij mijn eigen digital garden wil ik vooral experimenteren met vormgeving en persoonlijke interesses. Ik wil een website maken die niet alleen informatie laat zien, maar ook echt bij mij past.
 
 ### 4 sept - [Workshop]
 
@@ -37,7 +43,8 @@ Ik wil het gridprincipe meenemen. Ik wil mijn elementen beter uitlijnen, zodat m
 
 ### 2 sept - [Workshop]
 
-Vandaag heb ik tijdens mijn eerste workshop "Interactie: MMD, micro-interacties, forms" gehad. Tijdens deze les hebben we een opfrisser gehad voor de MMD elementen. Deze hebben we vervolgens toegpast
+Vandaag heb ik tijdens mijn eerste workshop "Interactie: MMD, micro-interacties, forms" gehad. Tijdens deze les hebben we een opfrisser gehad voor de MMD elementen. Deze hebben we vervolgens toegpast in het opnieuw maken van een menu kaart.<img width="747" height="557" alt="Screenshot 2026-09-18 105813" src="https://github.com/user-attachments/assets/77ba668b-9a11-489d-b537-23fbf256eba7" /> <img width="751" height="562" alt="image" src="https://github.com/user-attachments/assets/006179af-39dc-4290-9f8e-ae8539221409" /> <img width="755" height="562" alt="image" src="https://github.com/user-attachments/assets/3b331d2d-0966-4fbc-b35c-c68c7b58cafa" />
+Tijdens de tweede workshop van vandaag heb ik "CSS: fonts met kleur en effecten" gehad. Tijdens deze les had ik aan het begin heel veel moeite met de code. En begreep ik er echt helemaal niks van (ik heb daar sowieso veel moeite mee). Naarmate we bezig waren en ik ook met klasgenoten kon overleggen merkte ik al snel dat er gelukkig ook bij mij een lampje aan ging. Aan het einde van de les heb ik toen ook echt de afbeeldingen en tekst precies hetzelfde gekregen als de voorbeelden. Ik had aan het begin nooit verwacht dat dit mij zou lukken.
 
 ### 31 aug - Kickoff
 
