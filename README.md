@@ -16,6 +16,9 @@ Door bijvoorbeeld gebruik te maken van: privacyverklaringen, cookiemeldingen, he
 Op welke manier kan je instemming vragen?
 Nieuwsbrief, locatie aanvragen, foto's uploaden, cookie instellingen, een account aanmaken, camera toestemming, microfoon toestemming, notificaties ontvangen, gegevens gebruiken om een website te analyseren of gegevens gebruiken om persoonlijke advertenties te creeeren.
 
+<img width="1070" height="1600" alt="image" src="https://github.com/user-attachments/assets/95f44ebe-8631-46aa-920e-93a79d06f3f6" />
+
+
 
 
 ### 16 sept - Werkgroep
