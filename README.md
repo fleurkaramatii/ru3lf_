@@ -71,7 +71,9 @@ Bij mijn eigen digital garden wil ik vooral experimenteren met vormgeving en per
 ### 2 sept - [Workshop]
 
 Vandaag heb ik tijdens mijn eerste workshop "Interactie: MMD, micro-interacties, forms" gehad. Tijdens deze les hebben we een opfrisser gehad voor de MMD elementen. Deze hebben we vervolgens toegpast in het opnieuw maken van een menu kaart.
+
 <img width="747" height="557" alt="Screenshot 2026-09-18 105813" src="https://github.com/user-attachments/assets/77ba668b-9a11-489d-b537-23fbf256eba7" /> <img width="751" height="562" alt="image" src="https://github.com/user-attachments/assets/006179af-39dc-4290-9f8e-ae8539221409" /> <img width="755" height="562" alt="image" src="https://github.com/user-attachments/assets/3b331d2d-0966-4fbc-b35c-c68c7b58cafa" />
+
 Tijdens de tweede workshop van vandaag heb ik "CSS: fonts met kleur en effecten" gehad. Tijdens deze les had ik aan het begin heel veel moeite met de code. En begreep ik er echt helemaal niks van (ik heb daar sowieso veel moeite mee). Naarmate we bezig waren en ik ook met klasgenoten kon overleggen merkte ik al snel dat er gelukkig ook bij mij een lampje aan ging. Aan het einde van de les heb ik toen ook echt de afbeeldingen en tekst precies hetzelfde gekregen als de voorbeelden. Ik had aan het begin nooit verwacht dat dit mij zou lukken.
 
 ### 31 aug - Kickoff
