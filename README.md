@@ -4,8 +4,21 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### 16 sept - Werkgroep
+### 23 sept - Werkgroep
+Human Consent Component
 
+Welke gegevens worden er verwerkt op mijn digital garden?
+GitHub pages hosting, het digitaal tuintje component, mijn instagram pagina en de foto's die ik online op het web gevonden heb.
+
+Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website?
+Door bijvoorbeeld gebruik te maken van: privacyverklaringen, cookiemeldingen, het aangeven van de gebruikersrechten en aangeven in duidelijke taal (hierdoor kunnen er ook geen verwarringen ontstaan).
+
+Op welke manier kan je instemming vragen?
+Nieuwsbrief, locatie aanvragen, foto's uploaden, cookie instellingen, een account aanmaken, camera toestemming, microfoon toestemming, notificaties ontvangen, gegevens gebruiken om een website te analyseren of gegevens gebruiken om persoonlijke advertenties te creeeren.
+
+
+
+### 16 sept - Werkgroep
 3 Gestalt principes zijn:
 1. Nabijheid (Dingen die dicht bij elkaar staan worden beschouwd als een groep)
 2. Gelijkenis (Dingen die dezelfde kleur of vorm hebben hebben kunnen beschouwd worden als onderdelen die samenhoren)
