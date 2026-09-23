@@ -18,7 +18,18 @@ Nieuwsbrief, locatie aanvragen, foto's uploaden, cookie instellingen, een accoun
 
 <img width="1070" height="1600" alt="image" src="https://github.com/user-attachments/assets/95f44ebe-8631-46aa-920e-93a79d06f3f6" />
 
+Checkout:
+Wat is een wireflow en wat heb je er aan?
+Eeen wireframe is een schets van een online pagina, een flow is de route die je beloopt. Een wireflow houdt dus in dat je schetsen van verschillende pagina's maakt en vervolgens die in een flow zet om de duidelijke route te zien. Met zo'n wire flow kun je problemen ontdekken, gebruikerservaring verbeteren en je online navigatie plannen.
 
+Wat zijn dark UX patterns? Geef drie voorbeelden...
+Dark UX patterns zijn ontwerptechnieken in websites of apps die gebruikers op een misleidende of sturende manier proberen te laten handelen. De website maakt het bijvoorbeeld moeilijk om iets te weigeren of zorgt ervoor dat je per ongeluk ergens mee instemt. Drie voorbeelden zijn:
+1. Cookiebanners
+2. Moeilijk opzegbaar
+3. Extra verborgen kosten
+
+Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+Als ontwerper moet je bij het maken van een human consent component zorgen dat gebruikers op een duidelijke en eerlijke manier toestemming kunnen geven. Het moet begrijpelijk zijn waarvoor je toestemming vraagt en wat er met hun gegevens gebeurt. Gebruikers moeten vrijwillig kunnen kiezen en mogen niet door het ontwerp worden misleid of onder druk gezet. Daarom moet je bijvoorbeeld geen dark patterns gebruiken en moeten opties zoals accepteren en weigeren duidelijk zichtbaar zijn. Ook is het belangrijk dat gebruikers hun toestemming later makkelijk kunnen intrekken of aanpassen. Zo houd de gebruiker zelf controle over zijn of haar gegevens.
 
 
 ### 16 sept - Werkgroep
