@@ -4,6 +4,16 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 30 sept - Werkgroep
+Waar staat WCAG en A11y voor?
+WCAG staat voor Web Content Accessibility Guidelines — de internationale richtlijnen (opgesteld door het W3C) die bepalen hoe je websites toegankelijk maakt voor mensen met een beperking (bijvoorbeeld visuele, motorische, auditieve of cognitieve beperkingen). En A11y is de verkorte bruikbare site die je hiervoor kunt gebruiken en het makkelijker kunt checken?
+
+Wat vind ik lastiger te bedienen: toetsenbord of screenreader?
+Ik vind een screenreader lastiger te bedienen omdat het te lang duurt en ik hier geen geduld voor heb...
+
+Met welke beperking rekening houden vind ik het meest lastig?
+
+
 ### 23 sept - Werkgroep
 Human Consent Component
 
