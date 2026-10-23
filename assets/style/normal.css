@@ -1,14 +1,185 @@
 /* HIER KOMT JOUW CSS */
 @font-face {
-  font-family: "Comic Relief";
-  src: url(../type/ComicRelief-Regular.woff2);
-  font-weight: 400;
-  font-style: normal;
+  font-family: "Jayen Regular";
+  src: url(../type/JAYEN.ttf);
+}
+@font-face {
+  font-family: "Beckan";
+  src: url(../type/Beckanfont.otf);
+}
+@font-face {
+  font-family: "ModernRomance";
+  src: url(../type/Modern\ Romance.otf);
+}
+html {
+  color-scheme: light dark;
+  --background: light-dark(#73030d, #592219);
+  --color: #73030d;
+  --border-color: #68150a;
+  --color-light: white;
+}
+
+.cookie-popup {
+  position: fixed;
+  top: auto;
+  bottom: 20px;
+  left: 50%;
+  right: auto;
+  margin: 0; /* haalt de standaard-centrering van dialog weg */
+  transform: translateX(-50%);
+  width: min(90%, 500px);
+  padding: 20px;
+  background-color: #592219;
+  color: white;
+  border: 3px solid #68150a;
+  border-radius: 8px;
+  z-index: 1000;
+}
+
+.cookie-knoppen {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.cookie-knoppen button {
+  flex: 1;
+  padding: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: white;
+  color: #592219;
+  border: 2px solid white;
+  border-radius: 4px;
+}
+
+.cookie-knoppen button:hover {
+  background-color: #73030d;
+  color: white;
 }
 
 body {
-  font-family: "Comic Relief", system-ui;
-  background-color: Canvas;
-  color: CanvasText;
-  color-scheme: light dark;
+  font-family: "ModernRomance", system-ui;
+  background: var(--background);
+  color: var(--color-light);
+  text-align: center;
+}
+
+nav.topnav {
+  border: 3px solid var(--border-color);
+  padding: 10px;
+  background-color: #592219;
+  background-image: url("/backgroundborder.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.topnav a {
+  display: inline-block;
+  transition:
+    transform 0.3s ease,
+    color 0.3s ease;
+}
+
+.topnav a:hover {
+  transform: scale(1.1);
+  color: #73030d;
+}
+
+nav ul {
+  margin: 0;
+  padding: 2em;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  gap: 1em;
+  list-style: none;
+  font-family: "ModernRomance";
+  font-size: larger;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 200px;
+  font-family: "Beckan";
+  font-weight: 1000;
+  text-shadow: 8px 8px 0px brown;
+}
+
+main {
+  position: relative;
+  display: grid;
+}
+
+@media (width > 30em) {
+  main {
+    grid-template-columns: 10em 1fr 1fr;
+    gap: 2em;
+    max-width: 62em;
+  }
+  main::before {
+    display: block;
+    content: "";
+    width: 10em;
+    aspect-ratio: 1 / 2.16625;
+
+    background-image: url("../dancerstreek.jpg");
+    background-size: contain;
+    z-index: 0;
+  }
+}
+
+h2 {
+  margin-left: 500px;
+  font-family: "ModernRomance";
+  max-width: 800px;
+  font-weight: bold;
+}
+
+h6 {
+  font-size: 100px;
+  font-family: "Jayen Regular";
+}
+
+.intro {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 20px;
+  text-align: center;
+}
+.fotomidden {
+  width: 400px;
+  margin-top: 20px;
+  margin-left: 90px;
+}
+/*
+.fotolinks {
+  width: 200px;
+  margin-bottom: 200px;
+  margin-right: 250px;
+}
+
+.fotorechts {
+  width: 200px;
+  margin-bottom: 200px;
+  margin-left: 300px;
+}
+
+.mc {
+  font-family: "Jayen Regular";
+  max-width: 700px;
+}
+
+.moderncontemporary {
+  width: 200px;
+  margin-right: 1000px;
+  margin-top: -200px;
+}
+*/
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
 }

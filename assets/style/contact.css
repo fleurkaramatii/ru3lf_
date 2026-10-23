@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "ModernRomance";
+  src: url(../type/Modern\ Romance.otf);
+}
+
+@font-face {
+  font-family: "Beckan";
+  src: url(../type/Beckanfont.otf);
+}
+
+body {
+  background-color: lightpink;
+  color: #ff0099;
+}
+
+nav.topnav {
+  border: 3px solid var(--border-color);
+  padding: 10px;
+  background-color: #592219;
+  background-image: url("../navballet.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.topnav a {
+  display: inline-block;
+  color: #ff3aae;
+  transition:
+    transform 0.3s ease,
+    color 0.3s ease;
+}
+
+.topnav a:hover {
+  transform: scale(1.1);
+  color: #ff0099;
+}
+
+nav ul {
+  margin: 0;
+  padding: 2em;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  gap: 1em;
+  list-style: none;
+  font-family: "ModernRomance";
+  font-size: larger;
+}
+
+h1 {
+  color: #d09a8c;
+  text-align: center;
+  font-size: 200px;
+  font-family: "Beckan";
+  font-weight: 1000;
+  text-shadow: 8px 8px 8px #ff3aae;
+}
