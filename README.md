@@ -171,10 +171,38 @@ Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt
 
 Vandaag heb ik tijdens mijn eerste workshop "Interactie: MMD, micro-interacties, forms" gehad. Tijdens deze les hebben we een opfrisser gehad voor de MMD elementen. Deze hebben we vervolgens toegpast in het opnieuw maken van een menu kaart.
 
-<img width="747" height="557" alt="Screenshot 2026-09-18 105813" src="https://github.com/user-attachments/assets/77ba668b-9a11-489d-b537-23fbf256eba7" /> <img width="751" height="562" alt="image" src="https://github.com/user-attachments/assets/006179af-39dc-4290-9f8e-ae8539221409" /> <img width="755" height="562" alt="image" src="https://github.com/user-attachments/assets/3b331d2d-0966-4fbc-b35c-c68c7b58cafa" />
-
 Tijdens de tweede workshop van vandaag heb ik "CSS: fonts met kleur en effecten" gehad. Tijdens deze les had ik aan het begin heel veel moeite met de code. En begreep ik er echt helemaal niks van (ik heb daar sowieso veel moeite mee). Naarmate we bezig waren en ik ook met klasgenoten kon overleggen merkte ik al snel dat er gelukkig ook bij mij een lampje aan ging. Aan het einde van de les heb ik toen ook echt de afbeeldingen en tekst precies hetzelfde gekregen als de voorbeelden. Ik had aan het begin nooit verwacht dat dit mij zou lukken.
 
 ### 31 aug - Kickoff
 
 Vandaag behandelden we het maken van een fork van de model repository en hoe je deze publiceert via je eigen GitHub omgeving. Een source hosting platform is een website waar je jouw programmeercode kunt opslaan, beheren en delen met anderen. Het is een handige plek om aan projecten te werken en bij te houden welke wijzigingen er gemaakt worden. Ik heb als mijn platform de keuze van GitHub gemaakt omdat we hier vorig jaar ook mee aan de slag zijn geweest en dit dus vertrouwder voelt om mee te werken.
+
+
+## Deepdives
+
+### Praktische CSS - Sprint 0
+<img width="1897" height="777" alt="image" src="https://github.com/user-attachments/assets/2d692b5f-d263-42ae-af18-2c3bd1af4379" />
+<img width="1488" height="977" alt="image" src="https://github.com/user-attachments/assets/3cc4dd9f-0de4-4572-8a39-4027db17b538" />
+
+### Fonts met kleur en effecten - Sprint 0
+<img width="327" height="302" alt="Screenshot 2026-10-05 114918" src="https://github.com/user-attachments/assets/b6ae547e-f153-42f1-8305-63d68f8637cd" />
+<img width="521" height="352" alt="image" src="https://github.com/user-attachments/assets/1a1b6269-b85c-43ab-a03f-408d5406bdde" />
+
+### Interactie: MMD, micro-interacties, forms - Sprint 0
+<img width="747" height="557" alt="Screenshot 2026-09-18 105813" src="https://github.com/user-attachments/assets/d092f4b1-4db4-4ccb-bf17-6d9aa7e30260" />
+<img width="751" height="562" alt="Screenshot 2026-09-18 105902" src="https://github.com/user-attachments/assets/4e8ef89a-effd-487f-ba7e-ce9d6743586f" />
+<img width="755" height="562" alt="Screenshot 2026-09-18 105937" src="https://github.com/user-attachments/assets/aaa396b9-06c3-4696-89d9-0b564061c348" />
+
+### Light & Dark Theme - Sprint 1
+<img width="1531" height="917" alt="image" src="https://github.com/user-attachments/assets/00d9e7f8-1cb8-4df0-ba11-3a47c89b4c73" />
+<img width="1527" height="871" alt="image" src="https://github.com/user-attachments/assets/46d05a87-8062-4981-8861-da842dab1ece" />
+<img width="1536" height="836" alt="image" src="https://github.com/user-attachments/assets/311bedae-8010-46e0-9478-45c2df3fe204" />
+(Oefeningen 2 en 3 heb ik echt mijn best op gedaan maar kreeg deze niet uitgevoerd helaas...)
+
+### Mooie kleuren en gradients - Sprint 1
+<img width="1821" height="892" alt="image" src="https://github.com/user-attachments/assets/0a82b2f5-1dd5-49b2-91ef-fac65f2f372d" />
+
+
+
+
+
