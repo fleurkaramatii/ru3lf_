@@ -11,8 +11,6 @@ Vandaag hebben we de laatste Bi-weekly afgerond. We hebben gekeken naar hoe mens
 <img width="955" height="1285" alt="image" src="https://github.com/user-attachments/assets/cae67073-0827-4c39-b020-e86f25d8495a" /> <img width="972" height="886" alt="image" src="https://github.com/user-attachments/assets/517452e3-fb6a-49d4-8996-8cb157d1244e" /> 
 Aan het einde van de les hebben we elkaar beoordeeld. Uit de beoordeling die ik van mijn studiegenoten gekregen heb kon ik uithalen wat er nog niet helemaal goed ging en ik nog miste. Ik merkte dat ik wat achterliep namelijk en kreeg door deze feedback alles wat meer op een rijtje waardoor ik iets gerichter verder kon werken.
 
-### 19 okt - Werkgroep
-
 ### 9 okt - Werkgroep
 Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
 - Grootte: in elke zin wil ik één woord veel groter en dikker maken dan de rest. De rest van de zin maak ik klein. Bij het refrein ga ik grote en kleine tekst afwisselen.
@@ -76,10 +74,17 @@ Met welke beperking rekening houden vind ik het meest lastig?
 Als maker bouw ik een website met mijn ogen. Ik kijk of de knop op de goede plek staat, of de kleuren kloppen en of alles er netjes uitziet. Maar een blinde gebruiker ziet niets van dat uiterlijk. Die gebruikt een schermlezer, en die kijkt naar de code die ik heb geschreven. Mijn pagina kan er dus perfect uitzien en toch onbruikbaar zijn. Maak ik een knop van een stukje tekst met een klik eraan, dan ziet het er voor mij uit als een knop, maar de schermlezer herkent hem niet als zodanig. En een plaatje zonder beschrijving is voor die gebruiker gewoon een gat. Het lastige is dat ik dit zelf niet merk. Als ik mijn site test, werkt alles prima, tenzij ik er bewust moeite voor doe om hem met een screenreader uit te proberen. Ik moet ook goed nadenken over de opbouw, want alles wordt in een vaste volgorde voorgelezen en de gebruiker kan niet even snel iets overslaan. Maak ik iets dat opeens verschijnt, zoals een venstertje of een uitklapmenu, dan merkt de screenreader dat alleen als ik het in de code heb aangegeven.
 
 ### 28 sept - Werkgroep
+Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+Noem drie manieren om door een website te navigeren met jouw screenreader:
+
+### 25 sept - Werkgroep
+Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
+Welke dingen vielen je op?
+Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
 
 ### 23 sept - Werkgroep
 Human Consent Component
-
 Welke gegevens worden er verwerkt op mijn digital garden?
 GitHub pages hosting, het digitaal tuintje component, mijn instagram pagina en de foto's die ik online op het web gevonden heb.
 
@@ -95,7 +100,7 @@ Checkout:
 Wat is een wireflow en wat heb je er aan?
 Eeen wireframe is een schets van een online pagina, een flow is de route die je beloopt. Een wireflow houdt dus in dat je schetsen van verschillende pagina's maakt en vervolgens die in een flow zet om de duidelijke route te zien. Met zo'n wire flow kun je problemen ontdekken, gebruikerservaring verbeteren en je online navigatie plannen.
 
-Wat zijn dark UX patterns? Geef drie voorbeelden...
+Wat zijn dark UX patterns? Geef drie voorbeelden:
 Dark UX patterns zijn ontwerptechnieken in websites of apps die gebruikers op een misleidende of sturende manier proberen te laten handelen. De website maakt het bijvoorbeeld moeilijk om iets te weigeren of zorgt ervoor dat je per ongeluk ergens mee instemt. Drie voorbeelden zijn:
 1. Cookiebanners
 2. Moeilijk opzegbaar
@@ -104,6 +109,12 @@ Dark UX patterns zijn ontwerptechnieken in websites of apps die gebruikers op ee
 Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
 Als ontwerper moet je bij het maken van een human consent component zorgen dat gebruikers op een duidelijke en eerlijke manier toestemming kunnen geven. Het moet begrijpelijk zijn waarvoor je toestemming vraagt en wat er met hun gegevens gebeurt. Gebruikers moeten vrijwillig kunnen kiezen en mogen niet door het ontwerp worden misleid of onder druk gezet. Daarom moet je bijvoorbeeld geen dark patterns gebruiken en moeten opties zoals accepteren en weigeren duidelijk zichtbaar zijn. Ook is het belangrijk dat gebruikers hun toestemming later makkelijk kunnen intrekken of aanpassen. Zo houd de gebruiker zelf controle over zijn of haar gegevens.
 
+### 21 sept - Werkgroep
+Wat zijn HTML landmark role elements?
+
+Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+
+Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college: 
 
 ### 16 sept - Werkgroep
 3 Gestalt principes zijn:
@@ -116,30 +127,45 @@ Een grid zorgt voor structuur en eenheid in een ontwerp, omdat het helpt om elem
 Ik wil het gridprincipe meenemen. Ik wil mijn elementen beter uitlijnen, zodat mijn Garden meer structuur en eenheid krijgt. Tegelijkertijd wil ik sommige elementen bewust groter of anders plaatsen om het ontwerp interessant te houden.
 
 ### 14 sept - [Workshop]
+Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
 
-[...]
+Vertel welke volgende stap je neemt om je website responsive te maken.
+
+Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
 
 ### 11 sept - [Workshop]
-
-[...]
+Welke feedback heb je gehad?
 
 ### 9 sept - [Workshop]
-
+Leg uit waar het Visual Research in 3 stappen naartoe werkt
 1. Het onderzoeken van verschillende websites, beelden, kleuren en lettertypes.
 2. Het kijken naar de verzamelde inspiratie en vervolgens bepalen welke elementen je het liefste wilt gebruiken op een abstracte manier.
 3. Het gebruiken van de opgedane inspiratie in je eigen website.
-Mijn garden zal gaan over mij en mijn weg die ik gewandeld heb naar mijn carriere als professionele danser. Ik zal daarom om de stijl die ik in mijn miro heb neergezet hierbij aanhouden.<img width="1081" height="515" alt="image" src="https://github.com/user-attachments/assets/51cd2d09-2069-48bb-85f0-e08d218b9133" />
 
+Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz):
+Mijn garden zal gaan over mij en mijn weg die ik gewandeld heb naar mijn carriere als professionele danser. Ik zal daarom om de stijl die ik in mijn miro heb neergezet hierbij aanhouden.
+
+Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken:
+
+<img width="1081" height="515" alt="image" src="https://github.com/user-attachments/assets/51cd2d09-2069-48bb-85f0-e08d218b9133" />
 
 ### 7 sept - [Workshop]
-
+Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website:
 Een digital garden is een persoonlijke website waar je ideeën, interesses, experimenten en dingen die je leert kunt verzamelen. Het is meer een soort digitale tuin die steeds groeit en verandert, dan een website die helemaal af moet zijn. Dit is anders dan een reguliere website, omdat een normale website vaak een duidelijke structuur heeft en vooral bedoeld is om informatie netjes aan bezoekers te presenteren. Bij een digital garden mag het juist een stuk chaotischer en persoonlijker zijn. 
+
+Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren:
 Een website wordt webby op het moment dat het iets persoonlijks is en er veel creativiteit in voorkomt. De site hoeft bijvoorbeeld niet perfect of af te zijn omdat het zichzelf steeds verder kan ontwikkelen. Juist door het gebruik maken van interactieve animaties, heftige kleuren en bijzondere lettertypes wordt een website in mijn ogen meer webby. Websites die mij inspireren zijn bijvoorbeeld:
+
+Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma:
 Bij mijn eigen digital garden wil ik vooral experimenteren met vormgeving en persoonlijke interesses. Ik wil een website maken die niet alleen informatie laat zien, maar ook echt bij mij past.
 
 ### 4 sept - [Workshop]
+Leg uit wat een source hosting platform is en voor welke jij gekozen hebt:
 
-[...]
+Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina:
+
+Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden:
+
 
 ### 2 sept - [Workshop]
 
