@@ -4,6 +4,67 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 21 okt - Werkgroep
+<img width="1563" height="1179" alt="image" src="https://github.com/user-attachments/assets/fb22c44f-cfca-47e6-8cf7-38ab9aa75a6d" />
+Vandaag hebben we de laatste Bi-weekly afgerond. We hebben gekeken naar hoe mensen kunnen zien wat betrouwbare en onbetrouwbare content is. We hebben hier eerst zelf onderzoeksvragen voor bedacht en later (rechterzijde pagina) gekeken naar hoe we deze vragen mogelijk zouden kunnen beantwoorden en waar we dan de informatie vandaan konden halen.
+
+<img width="955" height="1285" alt="image" src="https://github.com/user-attachments/assets/cae67073-0827-4c39-b020-e86f25d8495a" /> <img width="972" height="886" alt="image" src="https://github.com/user-attachments/assets/517452e3-fb6a-49d4-8996-8cb157d1244e" /> 
+Aan het einde van de les hebben we elkaar beoordeeld. Uit de beoordeling die ik van mijn studiegenoten gekregen heb kon ik uithalen wat er nog niet helemaal goed ging en ik nog miste. Ik merkte dat ik wat achterliep namelijk en kreeg door deze feedback alles wat meer op een rijtje waardoor ik iets gerichter verder kon werken.
+
+### 19 okt - Werkgroep
+
+### 9 okt - Werkgroep
+Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+- Grootte: in elke zin wil ik één woord veel groter en dikker maken dan de rest. De rest van de zin maak ik klein. Bij het refrein ga ik grote en kleine tekst afwisselen.
+- Plaatsing: links zet ik de tekst links uitgelijnd, rechts rechts uitgelijnd en in het midden gecentreerd. De tekst in een boog laat ik uit het rechte grid breken. Het refrein ga ik schuin en gespiegeld neerzetten, zodat het zich een UFO vorm aanneemt.
+- Spacing: bij het refrein wil ik de regels dicht op elkaar zetten. Rond de grote woorden ga ik veel lege ruimte laten.
+- Lettersoort: ik ga één simpel lettertype gebruiken in twee gewichten, gewoon en vet.
+
+Wat voegt iedere variabele toe aan je ontwerp?
+- Grootte: je ziet meteen wat het belangrijkst is. De grote woorden worden mijn focuspunt en de kleine tekst eromheen blijft goed leesbaar.
+- Plaatsing: links en rechts komen tegenover elkaar te staan, dat geeft spanning. De boogtekst en de ruit worden mijn stukjes gekkigheid. Het refrein gevormd in een UFO past bij het thema van de ruimte. Daarnaast hoop ik voor elkaar te kunnen krijgen en een robotgezicht van te kunnen vormen.
+- Spacing: je gaat het ritme zien. Dichte regels voelen snel en lege plekken voelen als een pauze.
+- Lettersoorten: gewoon en vet geeft contrast zonder rommeltje. Het tweede lettertype laat één regel eruit springen. Samen met de felle kleuren wordt de uitstraling speels.
+
+Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
+Ik wil de animatie gebruiken om het ritme van het nummer zichtbaar te maken. Bovenaan laat ik het woord links van links binnenschuiven en het woord rechts van rechts, steeds op de maat, zodat het lijkt alsof ze tegenover elkaar staan in een gevecht. De boogtekst laat ik woord voor woord in beeld komen, zodat je het ritme van de zin kunt zien. Het woord in het midden heeft al twee lagen, en die ga ik snel heen en weer laten schudden, zodat het een echo of een bonkende beat wordt. Onderaan laat ik de vier schuine stukken van het refrein een voor een verschijnen op de beat, en ik laat de grote en kleine tekst afwisselen alsof ze ademen. Ik zorg ervoor dat nooit alles tegelijk beweegt. De kleine tekst laat ik stilstaan, zodat die goed leesbaar blijft en het oog weet waar het naartoe moet.
+
+### 7 okt - Werkgroep
+Waarom is het goed om een grid in je ontwerp toe te passen?
+- Voor de ontwerper: met een grid hoef ik niet bij elk onderdeel opnieuw te bedenken waar het moet staan. Dat werkt sneller en het wordt overal hetzelfde.
+- Voor de bezoeker: alles staat netjes op één lijn en vaste dingen staan steeds op dezelfde plek. Daardoor snapt de bezoeker sneller hoe de pagina werkt en waar hij moet kijken. 
+  
+Noem drie manieren om chaos in je ontwerp te voorkomen:
+1. Gebruik een grid zodat dingen op dezelfde lijnen beginnen, en niets zomaar ergens zweeft.
+2. Door het simpel te houden, dus maar een of twee lettertypes, een paar kleuren en een vaste reeks lettergroottes.
+3. Laat zien wat het belangrijkst is en gebruik lege ruimte. Zo weet je oog waar het naartoe moet en wordt het niet overal tegelijk heen getrokken.
+
+Hoeveel gekkigheid moet er in je werk zitten?
+Ik vind dat een beetje wel goed is, en op één plek. Zonder gekkigheid wordt een ontwerp saai en onthoud je er niets van. Maar als alles gek is, valt niets meer op en wordt het een rommeltje. Dus bijvoorbeeld het maken van een rustige en nette basis om vervolgens één ding bewust anders te laten zijn.
+
+### 5 okt - Werkgroep
+Wat wordt er met de volgende termen bedoeld?
+- Kerning: de ruimte tussen twee letters. Je past die aan, zodat bepaalde lettercombinaties (zoals “AV”) er netjes uitzien.
+- Tracking: de ruimte tussen alle letters van een tekst tegelijk. Je maakt de hele tekst ruimer of krapper.
+- Leading: de ruimte tussen de regels.
+- Flush-left: de tekst staat links recht en rechts ruw. Dit leest het makkelijkst.
+- Flush-right: de tekst staat rechts recht en links ruw. Dit lees je lastiger, dus het past alleen bij korte stukjes.
+- Centered: elke regel staat in het midden. Handig voor titels, niet voor lange teksten.
+- Justified: de tekst is links én rechts recht. Daarvoor worden de ruimtes tussen woorden aangepast, waardoor er soms lelijke gaten ontstaan.
+- Indent: de eerste regel van een alinea springt naar rechts in.
+- Outdent: de eerste regel steekt juist naar links uit, zoals bij een opsomming.
+- Modular scale: een rij lettergroottes die steeds met dezelfde factor groter wordt, bijvoorbeeld 1,5 keer. Daardoor passen de groottes goed bij elkaar.
+- Movable type: losse metalen letters die je steeds opnieuw kon neerzetten om een tekst te drukken. Gutenberg gebruikte dit.
+- Focuspunt: de plek waar je oog als eerste naartoe gaat. Dat maak je met contrast, grootte of plaatsing.
+- Vijf soorten contrast: vaak gaat het om contrast in grootte, dikte, lettertype of vorm, kleur en richting of plaatsing. Kijk in jullie artikel welke vijf daar staan.
+- Spatial tension: spanning die ontstaat door hoe elementen op de pagina staan en hoeveel lege ruimte er tussen zit. Daarmee breng je beweging of onrust in een ontwerp.
+
+Wat is mijn ideale regellengte?
+Ongeveer 65 tekens per regel, alles tussen 45 en 75 is goed. Omdat als de regels te kort zijn, moet je oog steeds terug naar links en leest het hakkelig. Als ze te lang zijn, raak je makkelijk de plek kwijt en vind je de volgende regel moeilijk terug.
+
+Als ik in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen welke zou ik dan gebruiken?
+Ik kies grootte. Iets groters zie je meteen als belangrijker, zonder uitleg. Plaatsing hangt af van de leesrichting, spacing is subtiel, en een ander lettertype zegt vooral iets over stijl. Met alleen verschillende groottes kun je koppen, tussenkoppen en gewone tekst al duidelijk scheiden.
+
 ### 30 sept - Werkgroep
 Waar staat WCAG en A11y voor?
 WCAG staat voor Web Content Accessibility Guidelines — de internationale richtlijnen (opgesteld door het W3C) die bepalen hoe je websites toegankelijk maakt voor mensen met een beperking (bijvoorbeeld visuele, motorische, auditieve of cognitieve beperkingen). En A11y is de verkorte bruikbare site die je hiervoor kunt gebruiken en het makkelijker kunt checken?
@@ -12,7 +73,9 @@ Wat vind ik lastiger te bedienen: toetsenbord of screenreader?
 Ik vind een screenreader lastiger te bedienen omdat het te lang duurt en ik hier geen geduld voor heb...
 
 Met welke beperking rekening houden vind ik het meest lastig?
+Als maker bouw ik een website met mijn ogen. Ik kijk of de knop op de goede plek staat, of de kleuren kloppen en of alles er netjes uitziet. Maar een blinde gebruiker ziet niets van dat uiterlijk. Die gebruikt een schermlezer, en die kijkt naar de code die ik heb geschreven. Mijn pagina kan er dus perfect uitzien en toch onbruikbaar zijn. Maak ik een knop van een stukje tekst met een klik eraan, dan ziet het er voor mij uit als een knop, maar de schermlezer herkent hem niet als zodanig. En een plaatje zonder beschrijving is voor die gebruiker gewoon een gat. Het lastige is dat ik dit zelf niet merk. Als ik mijn site test, werkt alles prima, tenzij ik er bewust moeite voor doe om hem met een screenreader uit te proberen. Ik moet ook goed nadenken over de opbouw, want alles wordt in een vaste volgorde voorgelezen en de gebruiker kan niet even snel iets overslaan. Maak ik iets dat opeens verschijnt, zoals een venstertje of een uitklapmenu, dan merkt de screenreader dat alleen als ik het in de code heb aangegeven.
 
+### 28 sept - Werkgroep
 
 ### 23 sept - Werkgroep
 Human Consent Component
