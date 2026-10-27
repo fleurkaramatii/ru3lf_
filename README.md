@@ -75,13 +75,20 @@ Als maker bouw ik een website met mijn ogen. Ik kijk of de knop op de goede plek
 
 ### 28 sept - Werkgroep
 Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+"Ik kies een HTML-element niet omdat het volgens de regels de juiste betekenis heeft, maar omdat het voor de gebruiker het beste werkt. Het gaat hem om de gebruikservaring, niet om de theorie of de nette naam van een element."
+
 Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+De meest voorkomende is blind zijn, door geen zicht te hebben beperk je jezelf het meeste met het gebruiken van een website. Verder is natuurlijk ook doof zijn of slechthorend een veel voorkomende beperking, voor als er gebruik gemaakt wordt van video's of geluiden. Of een motorische of cognitieve beperking kan moeite geven een website te gebruiken.
+
 Noem drie manieren om door een website te navigeren met jouw screenreader:
+1. Met de Tab-toets
+2. Met de sneltoetsen
+3. Met een skip-link
 
 ### 25 sept - Werkgroep
 Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
-Welke dingen vielen je op?
-Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
+HTML-validatie is het controleren van je code met een validator die laat zien of je HTML volgens de regels is geschreven en waar de fouten zitten.
+Het is belangrijk omdat browsers foute code allemaal een beetje anders herstellen, waardoor je pagina overal anders kan uitzien. Ook helpt het schermlezers om de pagina goed te lezen, vind je bugs sneller en blijft je code netjes.
 
 ### 23 sept - Werkgroep
 Human Consent Component
@@ -111,8 +118,10 @@ Als ontwerper moet je bij het maken van een human consent component zorgen dat g
 
 ### 21 sept - Werkgroep
 Wat zijn HTML landmark role elements?
+Landmark role elements zijn HTML-elementen die een groot gebied van de pagina een vaste betekenis geven, zodat een schermlezer-gebruiker er direct naartoe kan springen. Het is een soort plattegrond van je pagina. De belangrijkste zijn header, nav, main, aside, footer. Een section is alleen een landmark als je het een naam geeft met een aria-label.
 
 Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+Heading elementen, h1 tot h6, zijn de koppen van een pagina. Ze laten zien waar een tekst over gaat en dienen voor schermlezer-gebruikers als inhoudsopgave. Deze nest je als een boomstructuur: één h1 per pagina, daaronder h2, daaronder h3, en sla nooit een niveau over. Kies een kop op basis van structuur, niet op basis van grootte.
 
 Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college: 
 
@@ -128,10 +137,13 @@ Ik wil het gridprincipe meenemen. Ik wil mijn elementen beter uitlijnen, zodat m
 
 ### 14 sept - [Workshop]
 Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+Een website wordt lelijk als de ontwerper geen duidelijke keuzes maakt. Het ligt meestal niet aan één ding, maar aan een mix van rommelige indeling, te veel verschillende stijlen en slecht leesbare tekst. Je merkt het meestal doordat je oog niet weet waar het moet kijken, of doordat je moeite moet doen om iets te lezen. Een voorbeeld hiervan is bijvoorbeeld door geen hiërarchie te gebruiken, daarmee is alles dus even groot en even belangrijk. Je zou dit dus kunnen oplossen door bijvoorbeeld de kopstukken grooter en dikgedrukt te maken en door gebruik te maken van alinea's.
 
-Vertel welke volgende stap je neemt om je website responsive te maken.
+Vertel welke volgende stap je neemt om je website responsive te maken:
+De volgende stap die ik nu zou kunnen zetten om mijn website responsive te maken is door een 'display: flex' of een 'display: grid' toe te voegen.
 
 Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+Ik zou dat bij sommige dingen nu kunnen. Al moet ik wel zeggen dat ik van alles snap waarom ik het gedaan heb of ga doen maar ik dat niet met de specifieke Webby vocabuair uit zou kunnen leggen...
 
 ### 11 sept - [Workshop]
 Welke feedback heb je gehad?
@@ -165,7 +177,6 @@ Leg uit wat een source hosting platform is en voor welke jij gekozen hebt:
 Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina:
 
 Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden:
-
 
 ### 2 sept - [Workshop]
 
