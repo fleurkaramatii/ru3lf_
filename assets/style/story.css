@@ -76,20 +76,26 @@ h1 {
   flex-direction: row-reverse;
 }
 
-h3 {
-  font-size: 5rem;
-}
-
-.ballet {
-  width: 15em;
-}
-
 h4 {
   font-size: 5rem;
 }
 
-.moderncontemporary {
-  width: 15em;
+.moderncontemporary-blok {
+  display: flex;
+  align-items: center; /* tekst verticaal in het midden van het plaatje */
+  gap: 30px; /* ruimte tussen plaatje en tekst */
+  max-width: 1000px;
+  margin: 0 auto; /* centreert het hele blok */
+  padding: 0 20px;
+}
+
+.modern-foto {
+  width: 300px;
+  flex-shrink: 0; /* voorkomt dat het plaatje krimpt als de tekst veel ruimte pakt */
+}
+
+.modernc-tekst {
+  flex: 1; /* tekst vult de rest van de breedte */
 }
 
 h5 {
