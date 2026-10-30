@@ -1,0 +1,160 @@
+/* MARK: fonts */
+@font-face {
+  font-family: 'Seraphs';
+  src: url('font/SeraphsVF.woff2') format('woff2'), /* Modern Browsers */
+}
+/* MARK: items */
+body{
+  font-family: 'Seraphs', sans-serif;
+  background-color: rgb(222, 140, 222);
+}
+
+.regel1{
+  position: absolute;
+  top: 100px;
+  left: 50px;
+  font-size: 30px;
+}
+
+.regel2{
+  position: absolute;
+  top: 110px;
+  left: 50px;
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.regel3{
+  position:absolute;
+  top: 100px;
+  right: 100px;
+  font-size: 30px;
+}
+
+.regel4{
+  position: absolute;
+  top: 110px;
+  right: 100px;
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.regel5{
+  position: absolute;
+  top: 200px;
+  left: 550px;
+  font-size: 30px;
+}
+
+.regel6{
+  position: absolute;
+  top: 220px;
+  left: 680px;
+  font-size: 50px;
+  font-weight: bolder;
+  color:rgb(7, 123, 123);
+  text-shadow: 8px 8px 0px rgb(3, 54, 54);
+}
+
+.regel7{
+  position: absolute;
+}
+
+.boog-tekst {
+  width: 100%;
+  max-width: 600px;
+  display: block;
+  margin: 0 auto; /* centreren */
+}
+
+.boog-tekst text {
+  font-family: "Seraphs", system-ui;
+  font-size: 40px;
+  fill: brown;
+  display: inline-block;
+  transform: rotate(45deg);
+}
+
+.regel9{
+  position: absolute;
+}
+
+.regel10{
+  transform: rotate(-20deg);
+  position: absolute;
+  bottom: 250px;  /* vanaf de onderkant */
+  left: 440px;   /* vanaf de rechterkant */
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.regel11{
+  transform: rotate(20deg);
+  position: absolute;
+  bottom: 250px;  /* vanaf de onderkant */
+  right: 440px;   /* vanaf de rechterkant */
+  font-weight: bolder;
+  font-size: 30px;  
+}
+
+.regel12{
+  transform: rotate(20deg);
+  position: absolute;
+  bottom: 100px;  /* vanaf de onderkant */
+  left: 440px;   /* vanaf de rechterkant */
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.regel13{
+  transform: rotate(-20deg);
+  position: absolute;
+  bottom: 100px;  /* vanaf de onderkant */
+  right: 440px;   /* vanaf de rechterkant */
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.regel14{
+  transform: rotate(-20deg);
+  position: absolute;
+  bottom: 235px;  /* vanaf de onderkant */
+  left: 500px;   /* vanaf de rechterkant */
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.regel15{
+  transform: rotate(20deg);
+  position: absolute;
+  bottom: 235px;  /* vanaf de onderkant */
+  right: 500px;   /* vanaf de rechterkant */
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.regel16{
+  transform: rotate(20deg);
+  position: absolute;
+  bottom: 140px;  /* vanaf de onderkant */
+  left: 500px;   /* vanaf de rechterkant */
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.regel17{
+  transform: rotate(-20deg);
+  position: absolute;
+  bottom: 140px;  /* vanaf de onderkant */
+  right: 500px;   /* vanaf de rechterkant */
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+footer{
+  position: absolute;
+  bottom: 0px;  /* vanaf de onderkant */
+  left: 0px;   /* vanaf de rechterkant */
+  font-weight: bold;
+  font-size: 15px;
+}
